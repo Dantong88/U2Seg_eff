@@ -1,9 +1,9 @@
 # U2Seg_eff
 
 This is a sub-part of U2Seg, which reproduce the Efficient Learning part in the main paper.
-See [README.MD]() for details.
+See [README.md](https://github.com/Dantong88/U2Seg_eff/blob/main/detectron2/README.md) for details.
 
-<p align="center"> <img src='docs/teaser_img.jpg' align="center" > </p>
+<p align="center"> <img src='./teaser_img.jpg' align="center" > </p>
 
 > [**Unsupervised Universal Image Segmentation**](https://u2seg.github.io/)            
 > [Dantong Niu*](https://scholar.google.com/citations?user=AzlUrvUAAAAJ&hl=en), [Xudong Wang*](https://people.eecs.berkeley.edu/~xdwang/), [Xinyang Han*](https://xinyanghan.github.io/), [Long Lian](https://tonylian.com/), [Roei Herzig](https://roeiherz.github.io/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/)     
