@@ -33,3 +33,17 @@ See [README.md](https://github.com/Dantong88/U2Seg_eff/blob/main/detectron2/READ
 - U2Seg can learn unsupervised object detectors and instance segmentors solely on ImageNet-1K.
 - U2Seg exhibits strong robustness to domain shifts when evaluated on 11 different benchmarks across domains like natural images, video frames, paintings, sketches, etc.
 - U2Seg can serve as a pretrained model for fully/semi-supervised detection and segmentation tasks. -->
+
+
+## Citation
+If you find our work inspiring or use our codebase in your research, please consider giving a star ⭐ and a citation.
+```
+@misc{niu2023unsupervised,
+      title={Unsupervised Universal Image Segmentation}, 
+      author={Dantong Niu and Xudong Wang and Xinyang Han and Long Lian and Roei Herzig and Trevor Darrell},
+      year={2023},
+      eprint={2312.17243},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
