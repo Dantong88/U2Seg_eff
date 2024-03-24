@@ -52,7 +52,7 @@ U2Seg_eff/detectron2/
 following the running the offical ```detectron2/datasets/prepare_panoptic_fpn.py```$
 * we provide coco-semi in [link](https://drive.google.com/file/d/1Q67cZukGX4t2bqmV1GOmz2ntPbDzH9r7/view?usp=sharing) that the user can download.
 
-###3. Running the Efficient Learning
+### 3. Running the Efficient Learning
 
 By using the different percentage supervision, the user can reproduce the results in the
 main paper by running:
